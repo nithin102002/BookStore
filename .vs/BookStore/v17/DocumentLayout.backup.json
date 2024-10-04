@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nithi\\source\\repos\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\services\\bookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\bookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\utilities\\bookparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\utilities\\bookparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\utilities\\bookpointerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\utilities\\bookpointerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\models\\influxdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\models\\influxdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|c:\\users\\nithi\\source\\repos\\bookstore\\bookstore\\bookstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D1FA77B-4693-4344-BD04-B07014746044}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\bookstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T14:45:22.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookException.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Services\\BookException.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\BookException.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Services\\BookException.cs",
+              "RelativeToolTip": "BookStore\\Services\\BookException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:16:14.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookParse.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Utilities\\BookParse.cs",
+              "RelativeDocumentMoniker": "BookStore\\Utilities\\BookParse.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Utilities\\BookParse.cs",
+              "RelativeToolTip": "BookStore\\Utilities\\BookParse.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAA1wIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:24:58.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookPointerBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Utilities\\BookPointerBuilder.cs",
+              "RelativeDocumentMoniker": "BookStore\\Utilities\\BookPointerBuilder.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Utilities\\BookPointerBuilder.cs",
+              "RelativeToolTip": "BookStore\\Utilities\\BookPointerBuilder.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:26:21.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfluxDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Models\\InfluxDBSettings.cs",
+              "RelativeDocumentMoniker": "BookStore\\Models\\InfluxDBSettings.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Models\\InfluxDBSettings.cs",
+              "RelativeToolTip": "BookStore\\Models\\InfluxDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:31:27.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Program.cs",
+              "RelativeToolTip": "BookStore\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:25:16.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\appsettings.json",
+              "RelativeToolTip": "BookStore\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T07:25:11.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "BookStore\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:24:41.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Services\\BookService.cs",
+              "RelativeToolTip": "BookStore\\Services\\BookService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAuwIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:23:54.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookStore\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:22:48.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStore\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\Models\\Book.cs",
+              "RelativeToolTip": "BookStore\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:21:57.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookStore.csproj",
+              "DocumentMoniker": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\BookStore.csproj",
+              "RelativeDocumentMoniker": "BookStore\\BookStore.csproj",
+              "ToolTip": "C:\\Users\\nithi\\source\\repos\\BookStore\\BookStore\\BookStore.csproj",
+              "RelativeToolTip": "BookStore\\BookStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T07:18:11.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
